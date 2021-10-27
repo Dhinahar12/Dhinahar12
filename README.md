@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dhinahar P</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate ML practitioner from India</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+<!-- - 🌱 I’m currently  in **Machine Learning** -->
 
 - 💬 Ask me about **Pandas, Numpy**
 
-- 📫 How to reach me **dhinaharparthiban@gmail.com**
+- 📫 Reach me at **dhinaharparthiban@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
