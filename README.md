@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dhinahar P</h1>
-<h3 align="center">A passionate ML practitioner from India</h3>
+<h3 align="center">A passionate Learner from India</h3>
 
 <!-- - 🌱 I’m currently  in **Machine Learning** -->
 
-- 💬 Ask me about **Pandas, Numpy**
+- 💬 Ask me about **Anything**
 
 - 📫 Reach me at **dhinaharparthiban@gmail.com**
 
