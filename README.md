@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhinahar P</h1>
 <h3 align="center">ML Enthusiast</h3>
 
-<!-- - 🌱 I’m currently  in **Machine Learning** -->
+<!-- - 🌱 I’m currently  in **Web Development** -->
 
 - 💬 Ask me about **AI/ML**
 
