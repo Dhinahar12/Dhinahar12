@@ -5,7 +5,6 @@
 
 - 💬 Ask me about **AI/ML**
 - 🌱 I’m currently learning **MERN Stack**
-
 - 📫 Reach me at **dhinaharparthiban@gmail.com**
 
 
