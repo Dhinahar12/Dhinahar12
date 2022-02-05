@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhinahar P</h1>
+<h1 align="center">Hi 👋 I'm Dhinahar P</h1>
 <h3 align="center">ML & Frontend Developer </h3>
 
 <!-- - 🌱 I’m currently  in **Web Development** -->
